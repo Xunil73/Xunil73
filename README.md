@@ -4,7 +4,8 @@
 - 📫 How to reach me: 
 -       Email: harald.seiler@aikq.de
                whenever possible write encrypted with:
-               Key Fingerprint C3BA A9C2 D604 87CE 4352  2A21 647A E416 F5D2 716E
+               Key Fingerprint C3BA A9C2 D604 87CE 4352 2A21 647A E416 F5D2 716E
+               available on https://keys.opengpg.org
                
 -       irc.libera.chat Nick: HerrHolle
 -       jabber: Xunil73@jabber.de
