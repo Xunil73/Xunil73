@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harry @Xunil73
 - 👀 I’m interested in linux systems and amateur radio
-- 🌱 I’m currently learning C++, Java, Github
+- 🌱 I’m currently learning C++, Java, Python, Github
 - 📫 How to reach me: 
 -       Email: harald.seiler@aikq.de
                whenever possible write encrypted with:
