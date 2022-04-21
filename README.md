@@ -8,7 +8,7 @@
                available on https://keys.opengpg.org
                
 -       irc.libera.chat Nick: HerrHolle
--       jabber: Xunil73@jabber.de
+-       jabber: herrholle@jabber.de
 
 
   
